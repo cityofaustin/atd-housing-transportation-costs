@@ -1,0 +1,17 @@
+Version of the installed package:
+
+census==0.8.17
+geopandas==0.12.1
+pandas==1.5.2
+numpy==1.23.5
+gdal==3.5.3
+us==2.0.2
+gtfs_kit==5.2.3
+openpyxl==3.0.10
+shapely==1.8.5
+haversine==2.7.0
+ipfn==1.4.4
+matplotlib-scalebar==0.8.1
+palettable==3.3.0
+legendgram==0.0.3
+dataframe-image==0.1.3
